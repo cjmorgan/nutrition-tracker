@@ -1,0 +1,5 @@
+nutritionix:
+  api:
+    app_id: 717e73c4
+    api_key: 24b608fe6e2d4e81768d3810c24a4a8b
+    root_url: https://trackapi.nutritionix.com/v2
